@@ -8,5 +8,8 @@
 </head>
 <body>
     <h2>Ini index.php</h2>
+    <ul>
+        <li>al</li>
+    </ul>
 </body>
 </html>
